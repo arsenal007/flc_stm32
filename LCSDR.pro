@@ -1,4 +1,4 @@
-update=28.04.2020 7:06:44
+update=28.06.2024 7:48:29
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,11 +64,9 @@ LibName21=opto
 LibName22=atmel
 LibName23=contrib
 LibName24=libs/LCSDR
-LibName25=libs/4ms-ic
-LibName26=Display
-LibName27=switches
-LibName28=cmos4000
-LibName29=Relay
-LibName30=conn
-LibName31=pcm2900c
-LibName32=Oscillators
+LibName25=Display
+LibName26=switches
+LibName27=cmos4000
+LibName28=conn
+LibName29=pcm2900c
+LibName30=Oscillators
